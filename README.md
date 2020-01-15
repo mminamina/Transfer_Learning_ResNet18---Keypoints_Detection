@@ -7,9 +7,9 @@ This is the version with pretrained ResNet18 for my first computer vision projec
 - filters
 - emotion recognition
 ### Image Augmentation
-Introduce generalization(randomness) to detect and learn structures.
+Introduce generalization(randomness) to detect and learn structures
 ### Transform Steps
-Only the following transformation techniques were chosen to avoid unnecessary impacts on keypoints.
+Only the following transformation techniques were chosen to avoid unnecessary impacts on keypoints
 - **Rescale** to 250 for width and height
 - **RandomCrop** to 224
 - **Normalize & Convert ToTensor**
@@ -37,5 +37,6 @@ For project instructions, please refer to https://github.com/udacity/P1_Facial_K
 - model without TransferLearning vs NaimishNet vs Pretrained ResNet18
 - Pretrained ResNet18 produces the best performance and the most accurate keypoints among all three models
 - Both NaimishNet and Pretrained ResNet18 generate more accurate keypoints than the simple model without transfer learning
+
 
 LICENSE: This project is licensed under the terms of the MIT license.
