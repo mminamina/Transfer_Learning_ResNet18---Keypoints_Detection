@@ -39,4 +39,7 @@ For project instructions, please refer to https://github.com/udacity/P1_Facial_K
 - Both NaimishNet and Pretrained ResNet18 generate more accurate keypoints than the simple model without transfer learning
 
 
+#### Packages Used
+Python 3.6, Pytorch
+
 LICENSE: This project is licensed under the terms of the MIT license.
