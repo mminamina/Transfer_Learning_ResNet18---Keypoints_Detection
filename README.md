@@ -38,6 +38,11 @@ For project instructions, please refer to https://github.com/udacity/P1_Facial_K
 - Pretrained ResNet18 produces the best performance and the most accurate keypoints among all three models
 - Both NaimishNet and Pretrained ResNet18 generate more accurate keypoints than the simple model without transfer learning
 
+### Additional Helpful Resources
+- https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+- https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
+- https://arxiv.org/pdf/1512.03385.pdf
+- https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
 
 #### Packages Used
 Python 3.6, Pytorch
